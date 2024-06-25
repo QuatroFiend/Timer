@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Timer/static/css/main.28ea42bd.css",
-    "main.js": "/Timer/static/js/main.f95bed9f.js",
-    "static/js/453.a872429e.chunk.js": "/Timer/static/js/453.a872429e.chunk.js",
-    "index.html": "/Timer/index.html",
-    "main.28ea42bd.css.map": "/Timer/static/css/main.28ea42bd.css.map",
-    "main.f95bed9f.js.map": "/Timer/static/js/main.f95bed9f.js.map",
-    "453.a872429e.chunk.js.map": "/Timer/static/js/453.a872429e.chunk.js.map"
+    "main.css": "/clock-appV0.0/static/css/main.1265a97f.css",
+    "main.js": "/clock-appV0.0/static/js/main.c0809f8e.js",
+    "static/js/453.a872429e.chunk.js": "/clock-appV0.0/static/js/453.a872429e.chunk.js",
+    "index.html": "/clock-appV0.0/index.html",
+    "main.1265a97f.css.map": "/clock-appV0.0/static/css/main.1265a97f.css.map",
+    "main.c0809f8e.js.map": "/clock-appV0.0/static/js/main.c0809f8e.js.map",
+    "453.a872429e.chunk.js.map": "/clock-appV0.0/static/js/453.a872429e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.28ea42bd.css",
-    "static/js/main.f95bed9f.js"
+    "static/css/main.1265a97f.css",
+    "static/js/main.c0809f8e.js"
   ]
 }
