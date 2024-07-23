@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/clock-appV0.0/static/css/main.1265a97f.css",
-    "main.js": "/clock-appV0.0/static/js/main.c0809f8e.js",
+    "main.css": "/clock-appV0.0/static/css/main.77b8080a.css",
+    "main.js": "/clock-appV0.0/static/js/main.cb0250fb.js",
     "static/js/453.a872429e.chunk.js": "/clock-appV0.0/static/js/453.a872429e.chunk.js",
     "index.html": "/clock-appV0.0/index.html",
-    "main.1265a97f.css.map": "/clock-appV0.0/static/css/main.1265a97f.css.map",
-    "main.c0809f8e.js.map": "/clock-appV0.0/static/js/main.c0809f8e.js.map",
+    "main.77b8080a.css.map": "/clock-appV0.0/static/css/main.77b8080a.css.map",
+    "main.cb0250fb.js.map": "/clock-appV0.0/static/js/main.cb0250fb.js.map",
     "453.a872429e.chunk.js.map": "/clock-appV0.0/static/js/453.a872429e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1265a97f.css",
-    "static/js/main.c0809f8e.js"
+    "static/css/main.77b8080a.css",
+    "static/js/main.cb0250fb.js"
   ]
 }
