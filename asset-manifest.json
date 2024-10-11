@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/clock-appV0.0/static/css/main.999134c4.css",
-    "main.js": "/clock-appV0.0/static/js/main.e0f28e25.js",
+    "main.css": "/clock-appV0.0/static/css/main.7048c000.css",
+    "main.js": "/clock-appV0.0/static/js/main.bd6e5445.js",
     "static/js/453.987d5347.chunk.js": "/clock-appV0.0/static/js/453.987d5347.chunk.js",
     "static/media/alarm.svg": "/clock-appV0.0/static/media/alarm.d963b0e27d2a94d2daecc0b5f7edae9b.svg",
     "static/media/stopwatch.svg": "/clock-appV0.0/static/media/stopwatch.3a20d4fcf01de899b2e519062db07024.svg",
     "static/media/clock.svg": "/clock-appV0.0/static/media/clock.be73d0e0add5d83a9c87635dd64d2435.svg",
     "static/media/timer.svg": "/clock-appV0.0/static/media/timer.15ef686cb7d3d62aa48c449cf22a5b9d.svg",
     "index.html": "/clock-appV0.0/index.html",
-    "main.999134c4.css.map": "/clock-appV0.0/static/css/main.999134c4.css.map",
-    "main.e0f28e25.js.map": "/clock-appV0.0/static/js/main.e0f28e25.js.map",
+    "main.7048c000.css.map": "/clock-appV0.0/static/css/main.7048c000.css.map",
+    "main.bd6e5445.js.map": "/clock-appV0.0/static/js/main.bd6e5445.js.map",
     "453.987d5347.chunk.js.map": "/clock-appV0.0/static/js/453.987d5347.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.999134c4.css",
-    "static/js/main.e0f28e25.js"
+    "static/css/main.7048c000.css",
+    "static/js/main.bd6e5445.js"
   ]
 }
