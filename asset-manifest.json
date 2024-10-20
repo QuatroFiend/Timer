@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/clock-appV0.0/static/css/main.b07d8a81.css",
-    "main.js": "/clock-appV0.0/static/js/main.871d8967.js",
+    "main.js": "/clock-appV0.0/static/js/main.71a7abb9.js",
     "static/js/845.dd4e2853.chunk.js": "/clock-appV0.0/static/js/845.dd4e2853.chunk.js",
-    "static/media/timer.svg": "/clock-appV0.0/static/media/timer.a79cc9e65c9969c427517d696f3492a5.svg",
-    "static/media/timer1.svg": "/clock-appV0.0/static/media/timer1.1f11f72748de6fdea79014fd1c578c0d.svg",
+    "static/media/stopwatch1.svg": "/clock-appV0.0/static/media/stopwatch1.fe757323df2a100fd57ad7d2b3b8efc5.svg",
+    "static/media/stopwatch.svg": "/clock-appV0.0/static/media/stopwatch.6f6674f4c701145223616e0f84994385.svg",
     "index.html": "/clock-appV0.0/index.html",
-    "static/media/stopwatch.svg": "/clock-appV0.0/static/media/stopwatch.88687e48a69df11d804fa76b2d472a33.svg",
-    "static/media/stopwatch1.svg": "/clock-appV0.0/static/media/stopwatch1.55e052f4cf5d414dfa6610ba7ae34eb0.svg",
+    "static/media/timer.svg": "/clock-appV0.0/static/media/timer.88687e48a69df11d804fa76b2d472a33.svg",
+    "static/media/timer1.svg": "/clock-appV0.0/static/media/timer1.8f0a5303af713bdf24fded93cd7a4deb.svg",
     "static/media/alarm1.svg": "/clock-appV0.0/static/media/alarm1.9891c0cbf70719f0a198d9327ff20354.svg",
     "static/media/alarm.svg": "/clock-appV0.0/static/media/alarm.3dc8953f772f1d034a88f6c431a267b5.svg",
     "static/media/clock.svg": "/clock-appV0.0/static/media/clock.9d4f302bf87fb52239b118eaa07c5045.svg",
     "static/media/clock1.svg": "/clock-appV0.0/static/media/clock1.f0a7ac424114caae82941ff2337b9f7f.svg",
     "main.b07d8a81.css.map": "/clock-appV0.0/static/css/main.b07d8a81.css.map",
-    "main.871d8967.js.map": "/clock-appV0.0/static/js/main.871d8967.js.map",
+    "main.71a7abb9.js.map": "/clock-appV0.0/static/js/main.71a7abb9.js.map",
     "845.dd4e2853.chunk.js.map": "/clock-appV0.0/static/js/845.dd4e2853.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b07d8a81.css",
-    "static/js/main.871d8967.js"
+    "static/js/main.71a7abb9.js"
   ]
 }
